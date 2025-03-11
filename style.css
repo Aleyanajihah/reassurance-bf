@@ -1,0 +1,106 @@
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffe4ec;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 400px;
+}
+
+h1 {
+    color: #ff4d79;
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    margin: 20px 0;
+}
+
+button {
+    background: #ff4d79;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff1a5e;
+    transform: scale(1.1);
+}
+
+.cute-icons img {
+    width: 50px;
+    margin: 10px;
+}
+
+.cartoon img {
+    width: 120px;
+    margin-top: 20px;
+}
+body {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    background-color: #ffe4ec;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 400px;
+}
+
+h1 {
+    color: #ff4d79;
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    margin: 20px 0;
+}
+
+button {
+    background: #ff4d79;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff1a5e;
+    transform: scale(1.1);
+}
+
+.cute-icons img {
+    width: 50px;
+    margin: 10px;
+}
+
+.cartoon img {
+    width: 120px;
+    margin-top: 20px;
+}
